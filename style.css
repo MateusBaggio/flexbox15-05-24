@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container_cabecalho{
+    height: 150px;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.retangulogrande{
+    height: 75px;
+    width: 1200px;
+    background-color: rgb(80, 229, 235);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.medio{
+    height: 50px;
+    width: 200px;
+    background-color: aqua;
+}
+
+.medio2{
+    height: 50px;
+    width: 150px;
+    background-color: aqua;
+}
+
+.pequeno{
+    height: 40px;
+    width: 90px;
+    background-color: rgb(255, 255, 255);
+}
+
+.container_vermelho{
+    width: 1000px;
+    height: 500px;
+    background-color: red;
+    display: flex;
+}
+
+.retangulolaranja{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(240, 144, 0);
+}
+
+.medio3{
+    height: 80px;
+    width: 350px;
+    background-color: aqua;
+}
+
+.medio4{
+    height: 80px;
+    width: 250px;
+    background-color: aqua;
+}
+
+.amarelo{
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
